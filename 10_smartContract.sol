@@ -1,9 +1,9 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Mycontract {
-    function appendNumbers(uint a, uint b) public pure returns(bytes32){
-        bytes32 result = keccak256(abi.encodePacked(a,b));
+contract MyContract {
+    function hashNumbers(uint a, uint b) public pure returns (bytes32) {
+        bytes32 result = keccak256(abi.encodePacked(a, b));
         return result;
     }
 }
