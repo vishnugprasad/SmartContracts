@@ -21,3 +21,11 @@ contract SampleContract {
 
     
 }
+
+/*
+
+In this contract, we have two state variables - myString and myBytes. The setMyString function allows us to set the value of myString by passing in a string as an argument. Similarly, the setMyBytes function allows us to set the value of myBytes by passing in a bytes array as an argument.
+
+The getMyBytesLength function is a simple getter function that returns the length of the myBytes array.
+*/
+
