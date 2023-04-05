@@ -20,7 +20,7 @@ contract MyContract {
 
 
 /*
-  In this example, the MyContract contract includes two functions and two state variables. The recipient variable is of type address payable, which means it can receive Ether. The balance variable is of type uint, 
+In this example, the MyContract contract includes two functions and two state variables. The recipient variable is of type address payable, which means it can receive Ether. The balance variable is of type uint, 
 
 and it keeps track of the current balance of the contract.
 
@@ -34,6 +34,6 @@ contract and transfer it to the recipient address. The function checks that the 
 
 Then, it sets the amount variable to the current balance value, sets the balance variable to 0, and uses the .transfer() function to send the amount of Ether to the recipient address.
 
-*\
+*/
 
 
