@@ -31,5 +31,5 @@ We then define a register function that takes in a name and age parameter,
 
  and stores that information for the user associated with the Ethereum address that called the function (msg.sender). 
  
- The public keyword means that anyone can call this function.
+ The public keyword means that anyone can call this function
  */
