@@ -29,5 +29,5 @@ ensure that the result is either 0 or 1, which corresponds to heads or tails, re
 
 the outcome of the coin flip, and an event is emitted to signal that the coin has been flipped.
 
-This contract could be used by other smart contracts or DApps that require a random coin flip, such as a gambling application or a game.
- */
+This  contract could be used by other smart contracts or DApps that require a random coin flip, such as a gambling application or a game.
+ */ 
